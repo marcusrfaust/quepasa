@@ -139,7 +139,7 @@ git clone https://github.com/nocodeleaks/quepasa
 </p>
 cd quepasa/docker
 </p>
-nano .env
+nano /root/quepasa/helpers/.env
 </p></p></p>
 WEBSOCKETSSL=false # http or Https
 </p></p>
